@@ -7,9 +7,13 @@ This project demonstrates how to build, train, and evaluate a deep learning mode
 ## 📂 Project Structure
 
 ├── Dockerfile
+
 ├── requirements.txt
+
 ├── fashion_mnist_training.py
+
 ├── model/ # Saved model (optional)
+
 └── README.md
 
 
